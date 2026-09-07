@@ -1,5 +1,7 @@
 # Intel Kaby Lake-G (i7-8705G) - Ubuntu 26.04
 
+## kaby_lake_g_ai_acceleration
+ 
 This markdown report summarizes the entire technical journey to solve the unique hybrid 
 hardware challenges of Intel Kaby Lake-G (i7-8705G) laptop running Ubuntu 26.04. It outlines how to bypass the 
 deep sleep states of the AMD Radeon RX Vega M GL chip, handle driver isolation blocks within 
